@@ -9,19 +9,14 @@ Junior Laravel Developer from Pakistan 🇵🇰
 - MySQL
 - Bootstrap
 - JavaScript
-- REST API
 - WordPress
 
-## Currently Learning
 
-- Advanced Laravel
-- React
-- Docker
 
 ## Contact
 
 Email:
-your@email.com
+dayyanasif93@email.com
 
 LinkedIn:
-Coming Soon
+https://www.linkedin.com/in/dayyan-asif-894403360/
